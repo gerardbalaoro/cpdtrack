@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CPDTrack - Online Continuing Professional Development Platform](README.md)
+* [CPDTrack](README.md)
 * [Getting Started](getting-started.md)
 * [The Basics](the-basics.md)
 * [Accreditation](accreditation.md)
