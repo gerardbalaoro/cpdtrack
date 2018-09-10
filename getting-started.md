@@ -47,7 +47,7 @@ APP_URL=http://localhost
 | APP\_URL | http://localhost | Base URL of your application |
 
 {% hint style="warning" %}
-For production, it is recommended that**`APP_ENV`** and **`APP_DEBUG`** be left as default as it may expose confidential information and compromise the application.
+For production, it is recommended that **`APP_ENV`** and **`APP_DEBUG`** be left as default as it may expose confidential information and compromise the application.
 {% endhint %}
 
 ### Database
