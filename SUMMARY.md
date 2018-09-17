@@ -5,15 +5,19 @@
 
 ## Basic Guide
 
-* [Authentication](basic/authentication.md)
-* [Dashboard](basic/dashboard.md)
-* [Search](basic/search.md)
-* [Providers](basic/providers.md)
-* [Programs](basic/programs.md)
-* [Accreditation](basic/accreditation.md)
+* [Authentication](basics/authentication.md)
+* [Dashboard](basics/dashboard.md)
+* [Search](basics/search.md)
+* [Providers](basics/providers.md)
+* [Programs](basics/programs.md)
+* [Accreditation](basics/accreditation.md)
 
-## Administration
+## Advanced Guide
 
-* [User Management](admin/user-management.md)
-* [Customization](admin/customization.md)
+* [User Management](advanced/user-management.md)
+* [Configuration](advanced/configuration.md)
+
+## API Guide
+
+* [Introduction](api/introduction.md)
 

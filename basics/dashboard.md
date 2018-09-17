@@ -7,6 +7,10 @@ The middle column presents the last programs \(accredited and self-directed\) at
 ![Dashboard](../.gitbook/assets/03-dashboard.png)
 
 {% hint style="info" %}
-A user's dashboard is visible to only the administrator and himself.
+A user's dashboard is visible to only the [administrator ](../advanced/user-management.md#user-roles)and himself.
 {% endhint %}
+
+## Recording My Programs
+
+
 

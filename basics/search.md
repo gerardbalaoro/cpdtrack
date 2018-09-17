@@ -4,7 +4,7 @@ The search module is one of the key features of the system. It supports location
 
 ![](../.gitbook/assets/04-search.png)
 
-An **open search** module is also accessible publicly, provided that the administrator enabled this in the application settings.
+An **open search** module is also accessible publicly, provided that the administrator enabled this in the [application settings](../advanced/configuration.md#application-settings).
 
 ![](../.gitbook/assets/05-browse.png)
 
