@@ -17,7 +17,7 @@
 * [User Management](advanced/user-management.md)
 * [Configuration](advanced/configuration.md)
 
-## API Guide
+## Web API
 
 * [Introduction](api/introduction.md)
 
