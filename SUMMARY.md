@@ -1,9 +1,19 @@
 # Table of contents
 
-* [CPDTrack - Online Continuing Professional Development Platform](README.md)
+* [Overview](README.md)
 * [Getting Started](getting-started.md)
-* [The Basics](the-basics.md)
-* [Accreditation](accreditation.md)
-* [Configuration](configuration.md)
-* [License](license.md)
+
+## Basic Guide
+
+* [Authentication](basic/authentication.md)
+* [Dashboard](basic/dashboard.md)
+* [Search](basic/search.md)
+* [Providers](basic/providers.md)
+* [Programs](basic/programs.md)
+* [Accreditation](basic/accreditation.md)
+
+## Administration
+
+* [User Management](admin/user-management.md)
+* [Customization](admin/customization.md)
 
