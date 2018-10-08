@@ -28,7 +28,7 @@ composer update
 
 ## Configuration
 
-Populate the **`.env`**  file at the root of the application folder with your server's configuration. Below is a snippet of the default configuration. The variables are explained in the succeeding sections.
+Populate the `.env` file at the root of the application folder with your server's configuration. Below is a snippet of the default configuration. The variables are explained in the succeeding sections.
 
 ```text
 APP_NAME=CPDTrack
@@ -44,10 +44,10 @@ APP_URL=http://localhost
 | APP\_NAME | CPDTrack | Application name, contain inside quotation marks if exceeds two words |
 | APP\_ENV | production | Environment setting |
 | APP\_DEBUG | false | Enable debugging |
-| APP\_URL | http://localhost | Base URL of your application |
+| APP\_URL | [http://localhost](http://localhost) | Base URL of your application |
 
 {% hint style="warning" %}
-For production, it is recommended that **`APP_ENV`** and **`APP_DEBUG`** be left as default as it may expose confidential information and compromise the application.
+For production, it is recommended that `APP_ENV` and `APP_DEBUG` be left as default as it may expose confidential information and compromise the application.
 {% endhint %}
 
 ### Database
@@ -99,6 +99,4 @@ When upgrading to a later version, simply overwrite the application files and ru
 ```bash
 php artisan setup upgrade
 ```
-
-
 

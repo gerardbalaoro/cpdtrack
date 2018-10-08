@@ -4,5 +4,3 @@
 Currently, the application does not support API calls
 {% endhint %}
 
-
-

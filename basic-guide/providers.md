@@ -6,5 +6,3 @@
 
 ## Managing Administrators {#administrators}
 
-
-
