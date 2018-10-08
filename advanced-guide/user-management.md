@@ -42,8 +42,9 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
       <td style="text-align:left">
         <ul>
           <li>Configure Application</li>
-          <li>Manage Users</li>
-          <li>Reset Passwords</li>
+          <li>Create / Deactivate / Suspend User Accounts</li>
+          <li>Reset User Passwords</li>
+          <li>Suspend Providers</li>
         </ul>
       </td>
       <td style="text-align:center">❌</td>
@@ -51,5 +52,7 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
       <td style="text-align:center">✔️</td>
     </tr>
   </tbody>
-</table>
+</table>## Verification and Suspension
+
+
 
