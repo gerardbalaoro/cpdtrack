@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is CPDTrack?](README.md)
+* [Introduction](README.md)
 * [Getting Started](getting-started.md)
 
 ## Basic Guide

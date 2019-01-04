@@ -1,6 +1,4 @@
-# What is CPDTrack?
-
-## Overview
+# Introduction
 
 **CPDTrack** is the most comprehensive online platform for CPD providers and professionals. Find accredited programs that suit your needs and keep track of your credits with ease. Providers can also register their proposed programs for accreditation and publish it for the public to see.
 
