@@ -1,8 +1,8 @@
 # Providers
 
-## Registering Providers {#registeration}
+## Registering Providers <a id="registeration"></a>
 
 ### Verification
 
-## Managing Administrators {#administrators}
+## Managing Administrators <a id="administrators"></a>
 
