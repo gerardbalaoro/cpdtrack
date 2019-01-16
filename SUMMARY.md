@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
 
-## Basic Guide
+## Basics
 
 * [Authentication](basic-guide/authentication.md)
 * [Dashboard](basic-guide/dashboard.md)
@@ -12,8 +11,12 @@
 * [Programs](basic-guide/programs.md)
 * [Accreditation](basic-guide/accreditation.md)
 
-## Advanced Guide
+## Administration
 
-* [User Management](advanced-guide/user-management.md)
-* [Configuration](advanced-guide/configuration.md)
+* [User Management](administration/user-management.md)
+* [Configuration](administration/configuration.md)
+
+## Technical Guide
+
+* [Setting Up](technical-guide/setup.md)
 
