@@ -1,4 +1,4 @@
-# Authentication
+# User Accounts
 
 ## Registration
 
@@ -12,7 +12,7 @@ After registration, the users will receive an email containing their credentials
 
 Users must login user a username-password combination to access the primary features of the application.
 
-![Homepage and Login Form](../.gitbook/assets/01-home%20%281%29.png)
+![Homepage and Login Form](../.gitbook/assets/01-home.png)
 
 ### Resetting Password
 

@@ -2,21 +2,25 @@
 
 * [Introduction](README.md)
 
-## Basics
+## User Guide
 
-* [Authentication](basics/authentication.md)
-* [Dashboard](basics/dashboard.md)
-* [Search](basics/search.md)
-* [Providers](basics/providers.md)
-* [Programs](basics/programs.md)
-* [Accreditation](basics/accreditation.md)
+* [User Accounts](user-guide/authentication.md)
+* [Dashboard](user-guide/dashboard/README.md)
+  * [Search Module](user-guide/dashboard/search.md)
+  * [Recording Programs](user-guide/dashboard/recording-programs.md)
+* [Providers](user-guide/providers.md)
+* [Programs](user-guide/programs/README.md)
+  * [Accreditation](user-guide/programs/accreditation.md)
+* [Administration](user-guide/administration/README.md)
+  * [User Management](user-guide/administration/user-management.md)
+  * [Customization](user-guide/administration/configuration.md)
 
-## Administration
+## Documentation
 
-* [User Management](admin/user-management.md)
-* [Configuration](admin/configuration.md)
-
-## Technical Guide
-
-* [Setting Up](technical/setup.md)
+* [Setting Up](admin/setup/README.md)
+  * [Environment Variables](admin/setup/environment-variables.md)
+* [Installation](admin/installation.md)
+* [Configuration](admin/configuration/README.md)
+  * [FTP Storage](admin/configuration/ftp-storage.md)
+  * [reCAPTCHA](admin/configuration/recaptcha.md)
 

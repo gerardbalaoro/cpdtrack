@@ -1,4 +1,4 @@
-# Configuration
+# Customization
 
 ## Application Settings
 

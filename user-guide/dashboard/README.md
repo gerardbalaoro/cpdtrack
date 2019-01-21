@@ -8,9 +8,13 @@ License duration is calculated using the user's registration date \(from their p
 
 The middle column presents the last programs \(accredited and self-directed\) attended by the user. The right columns displays a short overview of the user's information.
 
-![](../.gitbook/assets/03-dashboard.png)
+![](../../.gitbook/assets/03-dashboard.png)
 
-## Recording My Programs
+## Floating Buttons
 
+There are two floating buttons available to users, first would be the **back to top** button, which allows users to scroll upwards in a single click.
 
+The other is the **help** button. When clicked, this will activate the tour sequence which gives the users a look around of the elements on the page and how they work. If a tour is not available, it would redirect the user to the guide page.
+
+![Help Button](../../.gitbook/assets/dashboard-04-help.png)
 
