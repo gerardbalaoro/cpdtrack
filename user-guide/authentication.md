@@ -2,6 +2,8 @@
 
 ## Registration
 
+![](../.gitbook/assets/home-02-register.png)
+
 Signing up allows users to keep a database of all the programs they participated in and how much credits they earned.
 
 For best experience, users are recommended to provide the necessary information as it appears on their professional identification card. This information will not be visible to other users and the public.
@@ -12,7 +14,7 @@ After registration, the users will receive an email containing their credentials
 
 Users must login user a username-password combination to access the primary features of the application.
 
-![Homepage and Login Form](../.gitbook/assets/01-home.png)
+![](../.gitbook/assets/home-01-landing.png)
 
 ### Resetting Password
 

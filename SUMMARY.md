@@ -7,7 +7,7 @@
 * [User Accounts](user-guide/authentication.md)
 * [Dashboard](user-guide/dashboard/README.md)
   * [Search Module](user-guide/dashboard/search.md)
-  * [Recording Programs](user-guide/dashboard/recording-programs.md)
+  * [Tracking Credits](user-guide/dashboard/tracking-credits.md)
 * [Providers](user-guide/providers.md)
 * [Programs](user-guide/programs/README.md)
   * [Accreditation](user-guide/programs/accreditation.md)
