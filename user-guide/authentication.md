@@ -2,7 +2,7 @@
 
 ## Registration
 
-![](../.gitbook/assets/home-02-register.png)
+![](../.gitbook/assets/app-02-register.png)
 
 Signing up allows users to keep a database of all the programs they participated in and how much credits they earned.
 
@@ -14,7 +14,7 @@ After registration, the users will receive an email containing their credentials
 
 Users must login user a username-password combination to access the primary features of the application.
 
-![](../.gitbook/assets/home-01-landing.png)
+![](../.gitbook/assets/app-01-home.png)
 
 ### Resetting Password
 

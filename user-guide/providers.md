@@ -8,15 +8,15 @@ All registered users may register and create their own provider pages. The syste
 
 ## Verification
 
-The **verfied badge** ![](../.gitbook/assets/check-circle-solid-svg.png) lets users know that an account or page is authentic. This also grants additional features to page administrators, such as the ability to customize their provider's handle.
+The **verfied badge** ![](../.gitbook/assets/fa-check-circle-b.png) ****lets users know that an account or page is authentic. This also grants additional features to page administrators, such as the ability to customize their provider's handle.
 
 To get verified, administrators of the page must contact any system modernator or administrator and present proof \(valid ID or certification\) that their account or page is authentic.
 
-![](../.gitbook/assets/provider-02-verify.png)
+![](../.gitbook/assets/providers-03-verify.png)
 
 ## Managing Administrators <a id="administrators"></a>
 
 Existing provider administrators can grant administrative access to other users by entering their username. Revoking admin access from an account can be done by clicking the **x** mark beside their names.
 
-![](../.gitbook/assets/provider-01-admin.png)
+![](../.gitbook/assets/providers-02-admin.png)
 

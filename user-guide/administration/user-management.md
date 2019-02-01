@@ -23,9 +23,15 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Find Programs</li>
         </ul>
       </td>
-      <td style="text-align:center">✔️</td>
-      <td style="text-align:center">✔️</td>
-      <td style="text-align:center">✔️</td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -34,25 +40,38 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Verify Providers and Users</li>
         </ul>
       </td>
-      <td style="text-align:center">❌</td>
-      <td style="text-align:center">✔️</td>
-      <td style="text-align:center">✔️</td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
           <li>Configure Application</li>
-          <li>Create / Deactivate / Suspend User Accounts</li>
+          <li>Create / Deactivate / Manage User Accounts</li>
           <li>Reset User Passwords</li>
-          <li>Suspend Providers</li>
         </ul>
       </td>
-      <td style="text-align:center">❌</td>
-      <td style="text-align:center">❌</td>
-      <td style="text-align:center">✔️</td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      </td>
     </tr>
   </tbody>
-</table>## Verification and Suspension
+</table>## Verification
+
+The **verfied badge** ![](../../.gitbook/assets/fa-check-circle-b.png) lets users know that an account or page is authentic. This also grants additional features to page administrators, such as the ability to customize their provider's handle.
 
 
 
