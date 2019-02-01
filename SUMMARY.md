@@ -4,8 +4,9 @@
 
 ## User Guide
 
-* [User Accounts](user-guide/authentication.md)
+* [Getting Started](user-guide/getting-started.md)
 * [Dashboard](user-guide/dashboard/README.md)
+  * [Profile Menu](user-guide/dashboard/profile-page.md)
   * [Search Module](user-guide/dashboard/search.md)
   * [Tracking Credits](user-guide/dashboard/tracking-credits.md)
 * [Providers](user-guide/providers.md)

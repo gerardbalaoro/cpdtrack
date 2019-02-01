@@ -1,4 +1,4 @@
-# User Accounts
+# Getting Started
 
 ## Registration
 
@@ -16,7 +16,7 @@ Users must login user a username-password combination to access the primary feat
 
 ![](../.gitbook/assets/app-01-home.png)
 
-### Resetting Password
+## Resetting Password
 
 Forgot your password? Click the **Reset Password** button and enter your username. The application will send a reset link to your email address.
 
