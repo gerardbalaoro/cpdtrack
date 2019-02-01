@@ -1,15 +1,14 @@
 # Installation
 
-## pletInteractive Installer
+## Command Line Installer
 
 Once the environment configurations are set, fire up the command terminal at the root of the application folder and run the command.
 
 ```bash
-php artisan app:install [-d|--dummy] [-c|--clean] [-r|--refresh]
-                        [-u|--username=USERNAME] [-p|--password=PASSWORD]
+php artisan app:install [options]
 ```
 
-
+![](../.gitbook/assets/install.gif)
 
 <table>
   <thead>
