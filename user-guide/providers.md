@@ -12,11 +12,7 @@ The **verfied badge** ![](../.gitbook/assets/fa-check-circle-b.png) ****lets use
 
 To get verified, administrators of the page must contact any system modernator or administrator and present proof \(valid ID or certification\) that their account or page is authentic.
 
-![](../.gitbook/assets/providers-03-verify.png)
-
 ## Managing Administrators <a id="administrators"></a>
 
 Existing provider administrators can grant administrative access to other users by entering their username. Revoking admin access from an account can be done by clicking the **x** mark beside their names.
-
-![](../.gitbook/assets/providers-02-admin.png)
 

@@ -18,10 +18,10 @@
 
 ## Documentation
 
-* [Setting Up](docs/setup/README.md)
-  * [Environment Variables](docs/setup/environment-variables.md)
-* [Installation](docs/installation.md)
-* [Configuration](docs/configuration/README.md)
-  * [FTP Storage](docs/configuration/ftp-storage.md)
-  * [reCAPTCHA](docs/configuration/recaptcha.md)
+* [Setting Up](documentation/setup/README.md)
+  * [Environment Variables](documentation/setup/environment-variables.md)
+* [Installation](documentation/installation.md)
+* [Configuration](documentation/configuration/README.md)
+  * [FTP Storage](documentation/configuration/ftp-storage.md)
+  * [reCAPTCHA](documentation/configuration/recaptcha.md)
 
