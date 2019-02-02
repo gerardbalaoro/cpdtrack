@@ -69,11 +69,16 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
       </td>
     </tr>
   </tbody>
-</table>## Managing User Accounts
+</table>
+
+## Managing User Accounts
 
 Administrators are given the highest privileges and can access all of the configurations within the system. As such, they have the ability to manage existing user accounts \(verify their information, modify data, and deactivate their accounts if necessary\) and create new ones.
+
+![](../../.gitbook/assets/users-actions.png)
 
 ## Verification
 
 The **verfied badge** ![](../../.gitbook/assets/fa-check-circle-b.png) lets users know that an account authentic.
 
+![](../../.gitbook/assets/users-verify.png)

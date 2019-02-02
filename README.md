@@ -2,6 +2,8 @@
 
 **CPDTrack** is the most comprehensive online platform for CPD providers and professionals. Find accredited programs that suit your needs and keep track of your credits with ease. Providers can also register their proposed programs for accreditation and publish it for the public to see.
 
+![](.gitbook/assets/app-home.png)
+
 ## About
 
 This project in a part of the developer's undergraduate thesis. This aims to serve as an alternate online platform for all processes concerning continuing professional development. This version is currently tailored for the Philippine Regulation Commission Board for Librarians.
