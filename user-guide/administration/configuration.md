@@ -2,5 +2,3 @@
 
 ## Application Settings
 
-
-

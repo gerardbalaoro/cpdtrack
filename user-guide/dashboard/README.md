@@ -17,3 +17,4 @@ There are two floating buttons available to users, first would be the **back to 
 The other is the **help** button. When clicked, this will activate the tour sequence which gives the users a look around of the elements on the page and how they work. If a tour is not available, it would redirect the user to the guide page.
 
 ![](../../.gitbook/assets/app-help-button.png)
+

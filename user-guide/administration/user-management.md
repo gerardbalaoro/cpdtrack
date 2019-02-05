@@ -8,9 +8,9 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
   <thead>
     <tr>
       <th style="text-align:left">Privileges</th>
-      <th style="text-align:center">Member</th>
-      <th style="text-align:center">Moderator</th>
-      <th style="text-align:center">Administrator</th>
+      <th style="text-align:left">Member</th>
+      <th style="text-align:left">Moderator</th>
+      <th style="text-align:left">Administrator</th>
     </tr>
   </thead>
   <tbody>
@@ -23,57 +23,54 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Find Programs</li>
         </ul>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-check-circle-green (3).png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-check-circle-green (5).png" alt/>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
           <li>Accredit Programs</li>
-          <li>Verify Providers Pages</li>
+          <li>Verify Provider Pages</li>
         </ul>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-times-circle-r (1).png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-check-circle-green (4).png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-check-circle-green (1).png" alt/>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
           <li>Configure Application</li>
-          <li>Create / Deactivate / Manage User Accounts</li>
-          <li>Reset User Passwords</li>
+          <li>Create / Suspend / Verify User Accounts</li>
         </ul>
       </td>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-times-circle-r.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-times-circle-r (2).png" alt/>
       </td>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/fa-check-circle-green.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fa-check-circle-green (2).png" alt/>
       </td>
     </tr>
   </tbody>
-</table>
+</table>## Managing User Accounts
 
-## Managing User Accounts
-
-Administrators are given the highest privileges and can access all of the configurations within the system. As such, they have the ability to manage existing user accounts \(verify their information, modify data, and deactivate their accounts if necessary\) and create new ones.
+Administrators are given the highest privileges and can access all of the configurations within the system. As such, they have **special permissions** \(verify information, suspend, and assign roles\) to all existing accounts and create new ones.
 
 ![](../../.gitbook/assets/users-actions.png)
 
@@ -82,3 +79,4 @@ Administrators are given the highest privileges and can access all of the config
 The **verfied badge** ![](../../.gitbook/assets/fa-check-circle-b.png) lets users know that an account authentic.
 
 ![](../../.gitbook/assets/users-verify.png)
+

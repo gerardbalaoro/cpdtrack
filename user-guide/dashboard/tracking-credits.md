@@ -27,3 +27,4 @@ When a program has been successfully added to a user's record, that user will ha
 Users also have the ability to remove a program from their activity list, this can be done by clicking the **Remove From My Activity** button.
 
 ![](../../.gitbook/assets/programs-remove-activity.png)
+
