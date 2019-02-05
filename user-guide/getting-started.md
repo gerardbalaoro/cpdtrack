@@ -6,7 +6,7 @@ Signing up allows users to keep a database of all the programs they participated
 
 For best experience, users are recommended to provide the necessary information as it appears on their professional identification card. This information will not be visible to other users and the public.
 
-![](../.gitbook/assets/app-register%20%281%29.png)
+![](../.gitbook/assets/app-register.png)
 
 After registration, the users will receive an email containing their credentials.
 
@@ -14,7 +14,7 @@ After registration, the users will receive an email containing their credentials
 
 Users must login user a username-password combination to access the primary features of the application.
 
-![](../.gitbook/assets/app-home%20%281%29.png)
+![](../.gitbook/assets/app-home.png)
 
 ## Resetting Password
 

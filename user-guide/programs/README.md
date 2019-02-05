@@ -2,7 +2,7 @@
 
 Programs are at the core of the application, its most basic purpose is to serve as a database of all accredited programs as well as medium for the accreditation process.
 
-![](../../.gitbook/assets/programs-view%20%281%29.png)
+![](../../.gitbook/assets/programs-view.png)
 
 ## Creating Programs
 

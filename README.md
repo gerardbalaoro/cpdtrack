@@ -2,7 +2,7 @@
 
 **CPDTrack** is the most comprehensive online platform for CPD providers and professionals. Find accredited programs that suit your needs and keep track of your credits with ease. Providers can also register their proposed programs for accreditation and publish it for the public to see.
 
-![](.gitbook/assets/app-home%20%281%29.png)
+![](.gitbook/assets/app-home.png)
 
 ## About
 
@@ -16,7 +16,7 @@ This project in a part of the developer's undergraduate thesis. This aims to ser
 
 ## License
 
-![](.gitbook/assets/by-nc-sa%20%281%29.png)
+![](.gitbook/assets/by-nc-sa.png)
 
 This work is licensed under a [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 

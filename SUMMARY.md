@@ -6,7 +6,7 @@
 
 * [Getting Started](user-guide/getting-started.md)
 * [Dashboard](user-guide/dashboard/README.md)
-  * [Sidebar Menu](user-guide/dashboard/sidebar-menu.md)
+  * [Navigation](user-guide/dashboard/navigation.md)
   * [Profile Menu](user-guide/dashboard/profile-page.md)
   * [Search Module](user-guide/dashboard/search.md)
   * [Tracking Credits](user-guide/dashboard/tracking-credits.md)
@@ -15,7 +15,7 @@
   * [Accreditation](user-guide/programs/accreditation.md)
 * [Administration](user-guide/administration/README.md)
   * [User Management](user-guide/administration/user-management.md)
-  * [Customization](user-guide/administration/configuration.md)
+  * [Customization](user-guide/administration/customization.md)
 
 ## Documentation
 
