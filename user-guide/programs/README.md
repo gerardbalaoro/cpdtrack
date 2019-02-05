@@ -2,7 +2,7 @@
 
 Programs are at the core of the application, its most basic purpose is to serve as a database of all accredited programs as well as medium for the accreditation process.
 
-![](../../.gitbook/assets/programs-view.png)
+![](../../assets/programs-view.png)
 
 ## Creating Programs
 
@@ -10,7 +10,7 @@ Users that manages at least one provider can create a program to be submitted fo
 
 Users must enter valid information and must upload the necessary supporting documents before submitting the request.
 
-![](../../.gitbook/assets/programs-create.png)
+![](../../assets/programs-create.png)
 
 {% hint style="info" %}
 To reveal the list of required attachments, simply click the **WHAT DOCUMENTS ARE REQUIRED?** button above the upload area.
