@@ -15,7 +15,7 @@ APP_DEBUG=false
 APP_URL=http://localhost
 ```
 
-### Application
+## Application
 
 | Variable | Default | Description |
 | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ APP_URL=http://localhost
 For production, it is recommended that `APP_ENV` and `APP_DEBUG` be left as default as it may expose confidential information and compromise the application.
 {% endhint %}
 
-### Database
+## Database
 
 Consult with your database administrator for the following credentials.
 
@@ -43,7 +43,7 @@ Consult with your database administrator for the following credentials.
 The application's database structure is created with MySQL and therefore uses features that are native to MySQL and MariaDB alone.
 {% endhint %}
 
-### Mail
+## Mail
 
 The application uses emails to send notifications and therefore required a working mail server.
 

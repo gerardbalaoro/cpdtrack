@@ -10,58 +10,51 @@ php artisan app:install [options]
 
 ![](../.gitbook/assets/install.gif)
 
+| Options | Description |
+| :--- | :--- |
+
+
+| `-d`, `--dummy` | Generate dummy data |
+| :--- | :--- |
+
+
+| `-c`, `--clean` | Generate dummy data _\(will destroy all exisiting data\)_ |
+| :--- | :--- |
+
+
+| `-r`, `--refresh` | Refresh migrations _\(will destroy all exisiting data\)_ |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Options</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>-d</code>, <code>--dummy</code>
-      </td>
-      <td style="text-align:left">Generate dummy data</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>-c</code>, <code>--clean</code>
-      </td>
-      <td style="text-align:left">Generate dummy data <em>(will destroy all exisiting data)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>-r</code>, <code>--refresh</code>
-      </td>
-      <td style="text-align:left">Refresh migrations <em>(will destroy all exisiting data)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>-u</code>, <code>--username</code>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><code>-u</code>, <code>--username</code>
+      </th>
+      <th style="text-align:left">
         <p>Default Administrator Account Username.</p>
-        <p></p>
         <p><code>php artisan app:install --username=superadmin</code>
         </p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><code>-p</code>, <code>--password</code>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><code>-p</code>, <code>--password</code>
+      </th>
+      <th style="text-align:left">
         <p>Default Administrator Account Password.</p>
-        <p></p>
         <p><code>php artisan app:install --password=PASSW0RD!!</code>
         </p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left"><code>-n</code>, <code>--no-interaction</code>
-      </td>
-      <td style="text-align:left">Disable all user prompts, automate all actions.</td>
-    </tr>
-  </tbody>
-</table>This will run all the necessary scripts to setup the application. Upon completion, it will create an administrator account and provide a set of credentials.
+  </thead>
+  <tbody></tbody>
+</table>| `-n`, `--no-interaction` | Disable all user prompts, automate all actions. |
+| :--- | :--- |
+
 
 {% hint style="warning" %}
 It is important to modify the default credentials created by the installation script.

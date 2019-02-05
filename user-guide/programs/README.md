@@ -21,3 +21,4 @@ To reveal the list of required attachments, simply click the **WHAT DOCUMENTS AR
 A program's accreditation status is displayed at the top left side of the program's page. Note that this is only visible to the administrators of the program's provider account and the moderators of the system.
 
 Pending or rejected requests will not be visible to the public.
+
