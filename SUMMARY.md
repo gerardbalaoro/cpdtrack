@@ -6,6 +6,7 @@
 
 * [Getting Started](user-guide/getting-started.md)
 * [Dashboard](user-guide/dashboard/README.md)
+  * [Sidebar Menu](user-guide/dashboard/sidebar-menu.md)
   * [Profile Menu](user-guide/dashboard/profile-page.md)
   * [Search Module](user-guide/dashboard/search.md)
   * [Tracking Credits](user-guide/dashboard/tracking-credits.md)

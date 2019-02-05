@@ -8,7 +8,7 @@ Once the environment configurations are set, fire up the command terminal at the
 php artisan app:install [options]
 ```
 
-![](../assets/install.gif)
+![](../.gitbook/assets/install%20%281%29.gif)
 
 | Options | Description |
 | :--- | :--- |
@@ -52,11 +52,7 @@ php artisan app:install [options]
     </tr>
   </thead>
   <tbody></tbody>
-</table>| `-n`, `--no-interaction` | Disable all user prompts, automate all actions. |
-| :--- | :--- |
-
-
-{% hint style="warning" %}
+</table>{% hint style="warning" %}
 It is important to modify the default credentials created by the installation script.
 {% endhint %}
 

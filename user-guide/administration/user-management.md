@@ -8,9 +8,9 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
   <thead>
     <tr>
       <th style="text-align:left">Privileges</th>
-      <th style="text-align:left">Member</th>
-      <th style="text-align:left">Moderator</th>
-      <th style="text-align:left">Administrator</th>
+      <th style="text-align:center">Member</th>
+      <th style="text-align:center">Moderator</th>
+      <th style="text-align:center">Administrator</th>
     </tr>
   </thead>
   <tbody>
@@ -23,14 +23,14 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Find Programs</li>
         </ul>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g (1).png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g (3).png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g (4).png" alt/>
       </td>
     </tr>
     <tr>
@@ -40,14 +40,14 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Verify Provider Pages</li>
         </ul>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r (2).png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g.png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g (2).png" alt/>
       </td>
     </tr>
     <tr>
@@ -57,28 +57,26 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
           <li>Create / Suspend / Verify User Accounts</li>
         </ul>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r (2).png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-times-circle-r (2).png" alt/>
       </td>
-      <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-g.png" alt />
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/fa-check-circle-g (5).png" alt/>
       </td>
     </tr>
   </tbody>
-</table>
-
-## Managing User Accounts
+</table>## Managing User Accounts
 
 Administrators are given the highest privileges and can access all of the configurations within the system. As such, they have **special permissions** \(verify information, suspend, and assign roles\) to all existing accounts and create new ones.
 
-![](../../assets/users-actions.png)
+![](../../.gitbook/assets/users-actions%20%281%29.png)
 
 ## Verification
 
-The **verfied badge** ![](../../assets/fa-check-circle-b.png) lets users know that an account authentic.
+The **verfied badge** ![](../../.gitbook/assets/fa-check-circle-b%20%282%29.png) lets users know that an account authentic.
 
-![](../../assets/users-verify.png)
+![](../../.gitbook/assets/users-verify.png)
 
