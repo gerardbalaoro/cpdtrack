@@ -24,30 +24,30 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
         </ul>
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green.png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green (3).png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green (5).png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
-          <li>Accredit Programs</li>
+          <li>Handle Program Accreditation</li>
           <li>Verify Provider Pages</li>
         </ul>
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r (1).png" alt/>
+        <img src="../../assets/fa-times-circle-r.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green (4).png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green (1).png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
     </tr>
     <tr>
@@ -58,17 +58,19 @@ The application uses [**Role-Based Access Control \(RBAC\)**](https://en.wikiped
         </ul>
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r.png" alt/>
+        <img src="../../assets/fa-times-circle-r.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-times-circle-r (2).png" alt/>
+        <img src="../../assets/fa-times-circle-r.png" alt />
       </td>
       <td style="text-align:left">
-        <img src="../../assets/fa-check-circle-green (2).png" alt/>
+        <img src="../../assets/fa-check-circle-g.png" alt />
       </td>
     </tr>
   </tbody>
-</table>## Managing User Accounts
+</table>
+
+## Managing User Accounts
 
 Administrators are given the highest privileges and can access all of the configurations within the system. As such, they have **special permissions** \(verify information, suspend, and assign roles\) to all existing accounts and create new ones.
 
