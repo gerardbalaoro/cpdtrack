@@ -3,7 +3,7 @@
 Laravel applications use `.env` file or an environment configuration to store and manage essential and usually unchanging settings such as database server credentials and mail provider. This elliminates the inconvenience of having to change the configuration file directly which may break future updates.
 
 {% hint style="info" %}
-**Read More:** [https://laravel.com/docs/5.4/configuration\#environment-configuration](https://laravel.com/docs/5.4/configuration#environment-configuration)
+**Read More:** [https://laravel.com/docs/5.4/configuration#environment-configuration](https://laravel.com/docs/5.4/configuration#environment-configuration)
 {% endhint %}
 
 Populate the `.env` file at the root of the application folder with your server's configuration. Below is a snippet of the default configuration. The variables are explained in the succeeding sections.
