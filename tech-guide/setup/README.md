@@ -1,6 +1,6 @@
 # Setting Up
 
-## Server Requirements
+##  Server Requirements
 
 The application is built on **Laravel Framework** and follows its minimum system requirements. For a full list, read on the [documentation of Laravel 5.4](https://laravel.com/docs/5.4#server-requirements). Third-party modules that are used in the application also require additional software to be installed, although most of it is bundled with PHP.
 

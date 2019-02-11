@@ -8,6 +8,8 @@ Once the environment configurations are set, fire up the command terminal at the
 php artisan app:install [options]
 ```
 
+![](../.gitbook/assets/install.gif)
+
 | Options | Description |
 | :--- | :--- |
 

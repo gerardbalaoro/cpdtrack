@@ -4,7 +4,7 @@
 
 ## User Guide
 
-* [Getting Started](user-guide/getting-started.md)
+* [Authentication](user-guide/getting-started.md)
 * [Dashboard](user-guide/dashboard/README.md)
   * [Navigation](user-guide/dashboard/navigation.md)
   * [Profile Menu](user-guide/dashboard/profile-page.md)
@@ -17,12 +17,12 @@
   * [User Management](user-guide/administration/user-management.md)
   * [Customization](user-guide/administration/customization.md)
 
-## Documentation
+## Technical Guide
 
-* [Setting Up](documentation/setup/README.md)
-  * [Environment Variables](documentation/setup/env-vars.md)
-* [Installation](documentation/installation.md)
-* [Configuration](documentation/configuration/README.md)
-  * [FTP Storage](documentation/configuration/ftp-storage.md)
-  * [reCAPTCHA](documentation/configuration/recaptcha.md)
+* [Setting Up](tech-guide/setup/README.md)
+  * [Environment Variables](tech-guide/setup/env-vars.md)
+* [Installation](tech-guide/installation.md)
+* [Configuration](tech-guide/configuration/README.md)
+  * [FTP Storage](tech-guide/configuration/ftp-storage.md)
+  * [reCAPTCHA](tech-guide/configuration/recaptcha.md)
 
