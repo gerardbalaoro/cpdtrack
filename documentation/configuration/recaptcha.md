@@ -11,5 +11,5 @@ RECAPTCHA_SITEKEY=secret
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-In the [application settings](../../user-guide/administration/configuration.md), enable the reCAPTCH support then save.
+In the [application settings](../../user-guide/administration/customization.md), enable the reCAPTCH support then save.
 

@@ -6,13 +6,9 @@ One of the most highlighted feature of the application is its credits tracking a
 **CPD Credits Units or CPD Points** refers to the numerical value equivalent to the amount of learning obtained by participating in accredited programs.
 {% endhint %}
 
-![](../../.gitbook/assets/app-credits.png)
-
 ## Adding My Programs
 
 The process is pretty straight-forward, search for any program, open its page, and click the **Add to My Activity** button. It will prompt you to specify how much credits did you earn for the program.
-
-![](../../.gitbook/assets/programs-add-activity.png)
 
 {% hint style="warning" %}
 The system **does not** have any means to verify if users acutally participated in that program nor find out if they did earn the credits they specified. Thus, the credits entered in the application is not automatically honored by the official institution.
@@ -25,6 +21,4 @@ When a program has been successfully added to a user's record, that user will ha
 ## Removing From My Activity
 
 Users also have the ability to remove a program from their activity list, this can be done by clicking the **Remove From My Activity** button.
-
-![](../../.gitbook/assets/programs-remove-activity.png)
 
