@@ -4,46 +4,33 @@
 
 ![](.gitbook/assets/app-home.png)
 
+## Features
+
+{% hint style="success" %}
+### Find programs that **meet your needs**
+
+CPDTrack can act as a centralized database for all accredited programs and providers. We have amazingnfilters to help you find what you need.
+{% endhint %}
+
+{% hint style="success" %}
+### We help you **keep track** of your credits
+
+You can log all of the programs you participated in and how much you earned.
+{% endhint %}
+
+{% hint style="success" %}
+### Made for providers and professional boards
+
+CPDTrack has an awesome accreditation subsystem that lets providers submit requests and professional boards to review them on-the-go.
+{% endhint %}
+
 ## About
 
 This project in a part of the developer's undergraduate thesis. This aims to serve as an alternate online platform for all processes concerning continuing professional development. This version is currently tailored for the Philippine Regulation Commission Board for Librarians.
 
-## Author
+## Developer
 
 **Gerard Balaoro** is an undergraduate student at the University of the Philippines Diliman taking a Bachelor's Degree in Library and Information Science. He specializes on Information Technology and Digital Preservation.
 
 > More info: [https://www.linkedin.com/in/gerardbalaoro](https://www.linkedin.com/in/gerardbalaoro)
-
-## License
-
-![](.gitbook/assets/by-nc-sa.png)
-
-This work is licensed under a [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-{% hint style="info" %}
-This is a human-readable summary of \(and not a substitute for\) the license.
-{% endhint %}
-
-### You are free to:
-
-* **Share** - copy and redistribute the material in any medium or format
-* **Adapt** - remix, transform, and build upon the material
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-### Under the following terms
-
-* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* **NonCommercial** — You may not use the material for commercial purposes.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-* **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-### Notices
-
-* You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-* No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-{% hint style="info" %}
-For a complete copy of the license, see [h](http://creativecommons.org/licenses/by-nc-sa/4.0/)[ttp://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-{% endhint %}
 
